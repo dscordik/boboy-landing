@@ -1,0 +1,51 @@
+:root {
+  /* Warm Eastern palette */
+  --color-terracotta: #c45c26;
+  --color-terracotta-dark: #a34a1c;
+  --color-sand: #e8d5b7;
+  --color-wood: #3d2b1f;
+  --color-wood-light: #5c4033;
+  --color-green: #2d4a3e;
+  --color-green-light: #3d6b56;
+  --color-cream: #faf6f0;
+  --color-cream-dark: #f0e6d8;
+  --color-gold: #d4a84b;
+  --color-gold-light: #e8c97a;
+  --color-text: #2c2118;
+  --color-text-muted: #6b5a4a;
+  --color-white: #ffffff;
+  --color-overlay: rgba(45, 33, 24, 0.72);
+
+  /* Typography */
+  --font-heading: 'Playfair Display', 'Georgia', serif;
+  --font-body: 'Manrope', 'Segoe UI', system-ui, sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4.5rem;
+  --space-3xl: 6rem;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(45, 33, 24, 0.08);
+  --shadow-md: 0 8px 24px rgba(45, 33, 24, 0.12);
+  --shadow-lg: 0 16px 48px rgba(45, 33, 24, 0.16);
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-base: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Layout */
+  --container-max: 1200px;
+  --header-height: 72px;
+}
